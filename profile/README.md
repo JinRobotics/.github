@@ -1,4 +1,4 @@
-# Stellar Moment Robotics Lab
+# Stellar Moment Robotics Group
 
 > **"Engineering the Moment of Impact."**
 
